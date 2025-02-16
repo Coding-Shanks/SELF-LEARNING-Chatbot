@@ -24,7 +24,7 @@ A **modern AI-powered chatbot** built with Flask for the backend and HTML/CSS/Ja
 ---
 
 ## 📸 Screenshots  
-📌 *(image.png)*  
+![Chatbot Interface](Image.png)
 
 ---
 
