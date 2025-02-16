@@ -2,10 +2,6 @@
 
 A **modern AI-powered chatbot** built with Flask for the backend and HTML/CSS/JavaScript for the frontend. This chatbot can respond to user queries and even **learn new responses** dynamically. A perfect project for beginners and developers looking to build a web-based chatbot!  
 
-## 🌐 Live Demo  
-🔗 **[Click here to see the live demo](#)** *(Add your live demo link once deployed)*  
-
----
 
 ## ✨ Features  
 ✅ **Real-Time Chat:** Users can communicate with the chatbot seamlessly.  
