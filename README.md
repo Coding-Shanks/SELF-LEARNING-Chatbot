@@ -17,14 +17,14 @@ A modern chatbot built with Flask for the backend and HTML/CSS/JavaScript for th
 - **Data Storage:** JSON file (`knowledge_base.json`)
 
 ## 📸 Screenshots
-*(Add screenshots of your chatbot interface here)*
+*(Image.png)*
 
 ## ⚙️ Installation
 Follow these steps to set up the project locally:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/your-username/flask-chatbot.git
+git clone https://github.com/Coding-Shanks/flask-chatbot.git
 cd flask-chatbot
 ```
 
@@ -95,15 +95,13 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
-**Your Name** *(Replace with your name)*
+**Coding-Shanks**
 
 ## ⭐ Support
 If you find this project helpful, please give it a **⭐️ on GitHub**!
 
 ## 🌐 Connect with Me
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [twitter.com/your-handle](https://twitter.com/your-handle)
+- **GitHub:** [github.com/your-username](https://github.com/Coding-Shanks)
 
 ## 🏆 Acknowledgments
 - **Flask Documentation:** [Flask Official Docs](https://flask.palletsprojects.com/)
