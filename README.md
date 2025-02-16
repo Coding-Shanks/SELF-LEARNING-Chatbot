@@ -17,7 +17,7 @@ A modern chatbot built with Flask for the backend and HTML/CSS/JavaScript for th
 - **Data Storage:** JSON file (`knowledge_base.json`)
 
 ## 📸 Screenshots
-*(Image.png)*
+(Image.png)
 
 ## ⚙️ Installation
 Follow these steps to set up the project locally:
